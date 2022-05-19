@@ -1,4 +1,8 @@
 {
+  "author": {
+    "email": "tmkhangit95@gmail.com",
+    "name": "Khang Tran"
+  },
   "name": "frontend-testing",
   "version": "0.1.0",
   "private": true,
